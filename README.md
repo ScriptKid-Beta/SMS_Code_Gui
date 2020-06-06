@@ -1,5 +1,5 @@
 # SMS_Code_Gui
-短信接码工具</br>
+短信接码工具V1.0</br>
 **author：**@xiaowei @trepverter
 #### 效果
 
