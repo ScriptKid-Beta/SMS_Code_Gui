@@ -17,4 +17,3 @@
 
 - 整体功能基本实现，希望对你有用。最后感谢一起开发的小伙伴（@trepverter）。
 
-https://scriptkid-beta.github.io/2020/06/05/%E7%9F%AD%E4%BF%A1%E6%8E%A5%E7%A0%81%E5%B7%A5%E5%85%B7V1.0/#more
